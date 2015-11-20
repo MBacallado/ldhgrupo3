@@ -41,6 +41,14 @@ public class ProximidadActivity extends Activity implements SensorEventListener{
         }
     }
 
+    /**
+     *      El evento que interesa es OnSensorChanged, el código escrito en este evento se ejecuta cada vez que algún valor
+     * de distancia cambia. Primero se captura en forma de número flotante el valor de proximidad del sensor. Si el número
+     * que devuelve es mayor que 10 se activa la App cambiando el fondo de la misma a rojo y en caso contrario no se activa
+     * la pantalla.
+     *
+     * @param evento
+     */
 
     /**
      *      El evento que interesa es OnSensorChanged, el código escrito en este evento se ejecuta cada vez que algún valor
@@ -66,6 +74,7 @@ public class ProximidadActivity extends Activity implements SensorEventListener{
         }
 
     }
+
 
     @Override
     public void onAccuracyChanged(Sensor sensor, int accuracy) {
