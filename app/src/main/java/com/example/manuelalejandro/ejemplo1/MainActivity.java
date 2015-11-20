@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Función que crea el intent con la actividad y la inicia.
+     * Se espera modificar cambios (Probando commits con jira...)
      * @param view
      */
     public void proximidad(View view) {
