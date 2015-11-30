@@ -40,21 +40,11 @@ public class ProximidadActivity extends Activity implements SensorEventListener{
             sensorM.registerListener(this,s,sensorM.SENSOR_DELAY_UI);
         }
     }
-
     /**
      *      El evento que interesa es OnSensorChanged, el código escrito en este evento se ejecuta cada vez que algún valor
      * de distancia cambia. Primero se captura en forma de número flotante el valor de proximidad del sensor. Si el número
-     * que devuelve es mayor que 10 se activa la App cambiando el fondo de la misma a rojo y en caso contrario no se activa
-     * la pantalla.
-     *
-     * @param evento
-     */
-
-    /**
-     *      El evento que interesa es OnSensorChanged, el código escrito en este evento se ejecuta cada vez que algún valor
-     * de distancia cambia. Primero se captura en forma de número flotante el valor de proximidad del sensor. Si el número
-     * que devuelve es mayor que 10 se activa la App cambiando el fondo de la misma a rojo y en caso contrario no se activa
-     * la pantalla.
+     * que devuelve es menor o igual que 2.5 se activa la App cambiando el fondo de la misma a un color aleatorio,
+     * en caso contrario se deja el color negro en la pantalla.
      *
      * @param evento
      */
