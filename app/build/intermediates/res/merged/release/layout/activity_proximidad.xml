@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:id="@+id/fondo"
-    android:background="@android:color/white"
-    tools:context=".ProximidadActivity" >
-
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:id="@+id/fondo"
+android:background="@android:color/white"
+tools:context=".ProximidadActivity" >
 </LinearLayout><!-- From: file:/C:/Users/ManuelAlejandro/proyectosAndroidStudio/Ejemplo1/app/src/main/res/layout/activity_proximidad.xml -->
