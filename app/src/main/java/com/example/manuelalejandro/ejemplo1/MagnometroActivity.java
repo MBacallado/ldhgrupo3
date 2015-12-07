@@ -20,10 +20,15 @@ public class MagnometroActivity extends Activity implements SensorEventListener{
     List<Sensor> sensores;
 
     /**
-     *       Primero se le especifica a la clase MainActivity que implemente el SensorEventListener, esto
+     *       Primero se le especifica a la clase MagnometroActivity que implemente el SensorEventListener, esto
      *  se hace para manipular los eventos del sensor y ejecutar nuestro código cuando cambie.
      *  @param savedInstanceState
      *
+     */
+
+    /**
+     * Constructor de la clase Activity,
+     * @param savedInstanceState guarda una instancia de la actividad pasada por parametro
      */
 
     @Override
@@ -41,10 +46,11 @@ public class MagnometroActivity extends Activity implements SensorEventListener{
     }
     /**
      *      El evento que interesa es OnSensorChanged, el código escrito en este evento se ejecuta cada vez que algún valor
-     * de distancia cambia. Primero se captura en forma de número flotante el valor de proximidad del sensor. Si el número
-     * que devuelve es menor o igual que 2.5 se activa la App cambiando el fondo de la misma a un color aleatorio,
-     * en caso contrario se deja el color negro en la pantalla.
-     *
+     * de las coordenadas cambien. Se cogen las coordenadas X, Y y Z del sensor y se muestran mediante un objeto TextView especificando
+     * el valor del array le pertenece:
+     * X = evento.values[0]
+     * Y = evento.values[1]
+     * Z = evento.values[2]
      * @param evento
      */
 

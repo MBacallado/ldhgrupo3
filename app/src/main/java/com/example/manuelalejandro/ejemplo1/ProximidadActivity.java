@@ -21,10 +21,15 @@ public class ProximidadActivity extends Activity implements SensorEventListener{
     List<Sensor> sensores;
 
     /**
-     *       Primero se le especifica a la clase MainActivity que implemente el SensorEventListener, esto
+     *       Primero se le especifica a la clase ProximidadActivity que implemente el SensorEventListener, esto
      *  se hace para manipular los eventos del sensor y ejecutar nuestro código cuando cambie.
      *  @param savedInstanceState
      *
+     */
+
+    /**
+     * Constructor de la clase Activity,
+     * @param savedInstanceState guarda una instancia de la actividad pasada por parametro
      */
 
     @Override
