@@ -15,4 +15,4 @@
     <TextView android:id="@+id/magnetic"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
-</LinearLayout><!-- From: file:/C:/Users/ManuelAlejandro/proyectosAndroidStudio/Ejemplo1/app/src/main/res/layout/content_magnometro.xml -->
+</LinearLayout><!-- From: file:/C:/Users/julian%20Tanausu/LDHGrupo3/app/src/main/res/layout/content_magnometro.xml -->
