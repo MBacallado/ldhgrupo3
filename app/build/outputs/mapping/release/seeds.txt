@@ -3391,12 +3391,15 @@ android.support.v7.widget.Toolbar: int getContentInsetRight()
 android.support.v7.widget.Toolbar: android.support.v7.internal.widget.DecorToolbar getWrapper()
 android.support.v7.widget.Toolbar: void setCollapsible(boolean)
 android.support.v7.widget.Toolbar$SavedState: android.os.Parcelable$Creator CREATOR
+com.example.manuelalejandro.ejemplo1.HumedadActivity
+com.example.manuelalejandro.ejemplo1.HumedadActivity: HumedadActivity()
 com.example.manuelalejandro.ejemplo1.MagnometroActivity
 com.example.manuelalejandro.ejemplo1.MagnometroActivity: MagnometroActivity()
 com.example.manuelalejandro.ejemplo1.MainActivity
 com.example.manuelalejandro.ejemplo1.MainActivity: MainActivity()
 com.example.manuelalejandro.ejemplo1.MainActivity: void proximidad(android.view.View)
 com.example.manuelalejandro.ejemplo1.MainActivity: void magnometro(android.view.View)
+com.example.manuelalejandro.ejemplo1.MainActivity: void humedad(android.view.View)
 com.example.manuelalejandro.ejemplo1.ProximidadActivity
 com.example.manuelalejandro.ejemplo1.ProximidadActivity: ProximidadActivity()
 com.example.manuelalejandro.ejemplo1.R$anim: int abc_fade_in
@@ -4014,6 +4017,7 @@ com.example.manuelalejandro.ejemplo1.R$id: int fixed
 com.example.manuelalejandro.ejemplo1.R$id: int fondo
 com.example.manuelalejandro.ejemplo1.R$id: int home
 com.example.manuelalejandro.ejemplo1.R$id: int homeAsUp
+com.example.manuelalejandro.ejemplo1.R$id: int humidity
 com.example.manuelalejandro.ejemplo1.R$id: int icon
 com.example.manuelalejandro.ejemplo1.R$id: int ifRoom
 com.example.manuelalejandro.ejemplo1.R$id: int image
@@ -4119,9 +4123,9 @@ com.example.manuelalejandro.ejemplo1.R$layout: int abc_screen_toolbar
 com.example.manuelalejandro.ejemplo1.R$layout: int abc_search_dropdown_item_icons_2line
 com.example.manuelalejandro.ejemplo1.R$layout: int abc_search_view
 com.example.manuelalejandro.ejemplo1.R$layout: int abc_select_dialog_material
-com.example.manuelalejandro.ejemplo1.R$layout: int activity_magnometro
 com.example.manuelalejandro.ejemplo1.R$layout: int activity_main
 com.example.manuelalejandro.ejemplo1.R$layout: int activity_proximidad
+com.example.manuelalejandro.ejemplo1.R$layout: int content_humedad
 com.example.manuelalejandro.ejemplo1.R$layout: int content_magnometro
 com.example.manuelalejandro.ejemplo1.R$layout: int content_main
 com.example.manuelalejandro.ejemplo1.R$layout: int design_layout_snackbar

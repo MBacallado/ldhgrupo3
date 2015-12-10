@@ -11565,6 +11565,16 @@ android.support.v7.widget.ViewInfoStore$ProcessCallback -> android.support.v7.wi
     void processAppeared(android.support.v7.widget.RecyclerView$ViewHolder,android.support.v7.widget.RecyclerView$ItemAnimator$ItemHolderInfo,android.support.v7.widget.RecyclerView$ItemAnimator$ItemHolderInfo) -> b
     void processPersistent(android.support.v7.widget.RecyclerView$ViewHolder,android.support.v7.widget.RecyclerView$ItemAnimator$ItemHolderInfo,android.support.v7.widget.RecyclerView$ItemAnimator$ItemHolderInfo) -> c
     void unused(android.support.v7.widget.RecyclerView$ViewHolder) -> a
+com.example.manuelalejandro.ejemplo1.HumedadActivity -> com.example.manuelalejandro.ejemplo1.HumedadActivity:
+    android.widget.LinearLayout fondo -> a
+    android.widget.TextView texto -> b
+    android.hardware.Sensor s -> c
+    android.hardware.SensorManager sensorM -> d
+    java.util.List sensores -> e
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate
+    void onSensorChanged(android.hardware.SensorEvent) -> onSensorChanged
+    void onAccuracyChanged(android.hardware.Sensor,int) -> onAccuracyChanged
 com.example.manuelalejandro.ejemplo1.MagnometroActivity -> com.example.manuelalejandro.ejemplo1.MagnometroActivity:
     android.widget.TextView magneticView -> a
     android.hardware.Sensor s -> b
@@ -11577,12 +11587,14 @@ com.example.manuelalejandro.ejemplo1.MagnometroActivity -> com.example.manuelale
 com.example.manuelalejandro.ejemplo1.MainActivity -> com.example.manuelalejandro.ejemplo1.MainActivity:
     android.widget.Button botonProximidad -> i
     android.widget.Button botonMagnetico -> j
+    android.widget.Button botonHumedad -> k
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
     boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
     boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
     void proximidad(android.view.View) -> proximidad
     void magnometro(android.view.View) -> magnometro
+    void humedad(android.view.View) -> humedad
 com.example.manuelalejandro.ejemplo1.MainActivity$1 -> com.example.manuelalejandro.ejemplo1.a:
     com.example.manuelalejandro.ejemplo1.MainActivity this$0 -> a
     void <init>(com.example.manuelalejandro.ejemplo1.MainActivity) -> <init>
@@ -11592,6 +11604,10 @@ com.example.manuelalejandro.ejemplo1.MainActivity$2 -> com.example.manuelalejand
     void <init>(com.example.manuelalejandro.ejemplo1.MainActivity) -> <init>
     void onClick(android.view.View) -> onClick
 com.example.manuelalejandro.ejemplo1.MainActivity$3 -> com.example.manuelalejandro.ejemplo1.c:
+    com.example.manuelalejandro.ejemplo1.MainActivity this$0 -> a
+    void <init>(com.example.manuelalejandro.ejemplo1.MainActivity) -> <init>
+    void onClick(android.view.View) -> onClick
+com.example.manuelalejandro.ejemplo1.MainActivity$4 -> com.example.manuelalejandro.ejemplo1.d:
     com.example.manuelalejandro.ejemplo1.MainActivity this$0 -> a
     void <init>(com.example.manuelalejandro.ejemplo1.MainActivity) -> <init>
     void onClick(android.view.View) -> onClick

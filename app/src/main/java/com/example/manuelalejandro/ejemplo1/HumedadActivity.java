@@ -49,6 +49,10 @@ public class HumedadActivity extends Activity implements SensorEventListener {
             s = sensores.get(0);
             sensorM.registerListener(this,s,sensorM.SENSOR_DELAY_UI);
         }
+        else
+        {
+            texto.setText("NO HAY SENSOR ACTIVO");
+        }
     }
 
     /**

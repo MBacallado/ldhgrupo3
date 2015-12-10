@@ -76,6 +76,9 @@
 # view res/layout/activity_main.xml #generated:14
 -keep class android.support.v7.widget.Toolbar { <init>(...); }
 
+# view AndroidManifest.xml #generated:47
+-keep class com.example.manuelalejandro.ejemplo1.HumedadActivity { <init>(...); }
+
 # view AndroidManifest.xml #generated:37
 -keep class com.example.manuelalejandro.ejemplo1.MagnometroActivity { <init>(...); }
 
