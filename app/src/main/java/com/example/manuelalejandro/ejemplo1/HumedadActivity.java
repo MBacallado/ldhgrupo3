@@ -52,6 +52,7 @@ public class HumedadActivity extends Activity implements SensorEventListener {
         else
         {
             texto.setText("NO HAY SENSOR ACTIVO");
+            texto.setBackgroundColor(Color.rgb(255,0,0));
         }
     }
 
