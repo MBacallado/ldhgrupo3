@@ -10,9 +10,6 @@
 # view res/layout/activity_main.xml #generated:2
 -keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
 
-# view res/layout/activity_main.xml #generated:22
--keep class android.support.design.widget.FloatingActionButton { <init>(...); }
-
 # view res/layout/design_layout_snackbar.xml #generated:18
 # view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
 -keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }

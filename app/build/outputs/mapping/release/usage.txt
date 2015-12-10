@@ -47,8 +47,7 @@ android.support.design.R$anim:
 android.support.design.R$attr:
     26:26:public R$attr()
 android.support.design.R$bool
-android.support.design.R$color:
-    310:310:public R$color()
+android.support.design.R$color
 android.support.design.R$dimen:
     391:391:public R$dimen()
 android.support.design.R$drawable
@@ -88,6 +87,7 @@ android.support.design.internal.ScrimInsetsFrameLayout$1
 android.support.design.widget.AnimationUtils:
     25:42:AnimationUtils()
     35:35:static float lerp(float,float,float)
+android.support.design.widget.AnimationUtils$AnimationListenerAdapter
 android.support.design.widget.AppBarLayout:
     private static final int PENDING_ACTION_NONE
     private static final int PENDING_ACTION_EXPANDED
@@ -121,8 +121,8 @@ android.support.design.widget.AppBarLayout$ScrollingViewBehavior:
     1202:1202:public int getOverlayTop()
     1109:1109:public bridge synthetic int getLeftAndRightOffset()
     1109:1109:public bridge synthetic boolean setLeftAndRightOffset(int)
-android.support.design.widget.CircularBorderDrawable:
-    private static final float DRAW_STROKE_WIDTH_MULTIPLE
+android.support.design.widget.CircularBorderDrawable
+android.support.design.widget.CircularBorderDrawableLollipop
 android.support.design.widget.CollapsingTextHelper
 android.support.design.widget.CollapsingToolbarLayout
 android.support.design.widget.CollapsingToolbarLayout$1
@@ -144,13 +144,41 @@ android.support.design.widget.CoordinatorLayout$LayoutParams:
 android.support.design.widget.FloatingActionButton:
     private static final int SIZE_MINI
     private static final int SIZE_NORMAL
+    private int mContentPadding
+    98:99:public FloatingActionButton(android.content.Context)
+    102:103:public FloatingActionButton(android.content.Context,android.util.AttributeSet)
+    106:164:public FloatingActionButton(android.content.Context,android.util.AttributeSet,int)
     275:276:public void show(android.support.design.widget.FloatingActionButton$OnVisibilityChangedListener)
     293:294:public void hide(android.support.design.widget.FloatingActionButton$OnVisibilityChangedListener)
     299:303:private android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener wrapOnVisibilityChangedListener(android.support.design.widget.FloatingActionButton$OnVisibilityChangedListener)
+    364:376:static android.graphics.PorterDuff$Mode parseTintMode(int,android.graphics.PorterDuff$Mode)
+    58:58:static synthetic int access$100(android.support.design.widget.FloatingActionButton)
+    58:58:static synthetic void access$201(android.support.design.widget.FloatingActionButton,android.graphics.drawable.Drawable)
+android.support.design.widget.FloatingActionButton$1
 android.support.design.widget.FloatingActionButton$2
 android.support.design.widget.FloatingActionButton$OnVisibilityChangedListener
+android.support.design.widget.FloatingActionButtonEclairMr1
+android.support.design.widget.FloatingActionButtonEclairMr1$1
+android.support.design.widget.FloatingActionButtonEclairMr1$2
+android.support.design.widget.FloatingActionButtonEclairMr1$BaseShadowAnimation
+android.support.design.widget.FloatingActionButtonEclairMr1$ElevateToTranslationZAnimation
+android.support.design.widget.FloatingActionButtonEclairMr1$ResetElevationAnimation
+android.support.design.widget.FloatingActionButtonHoneycombMr1
+android.support.design.widget.FloatingActionButtonHoneycombMr1$1
+android.support.design.widget.FloatingActionButtonHoneycombMr1$2
 android.support.design.widget.FloatingActionButtonImpl:
     static final int SHOW_HIDE_ANIM_DURATION
+    final android.view.View mView
+    final android.support.design.widget.ShadowViewDelegate mShadowViewDelegate
+    45:48:FloatingActionButtonImpl(android.view.View,android.support.design.widget.ShadowViewDelegate)
+    abstract void setElevation(float)
+    abstract void setPressedTranslationZ(float)
+    72:81:android.graphics.drawable.Drawable createBorderDrawable(int,android.content.res.ColorStateList)
+    85:85:android.support.design.widget.CircularBorderDrawable newCircularDrawable()
+android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener:
+    public abstract void onShown()
+    public abstract void onHidden()
+android.support.design.widget.FloatingActionButtonLollipop
 android.support.design.widget.HeaderBehavior:
     private static final int INVALID_POINTER
 android.support.design.widget.MathUtils:
@@ -161,16 +189,8 @@ android.support.design.widget.NavigationView$1
 android.support.design.widget.NavigationView$OnNavigationItemSelectedListener
 android.support.design.widget.NavigationView$SavedState
 android.support.design.widget.NavigationView$SavedState$1
-android.support.design.widget.ShadowDrawableWrapper:
-    static final float SHADOW_MULTIPLIER
-    static final float SHADOW_TOP_SCALE
-    static final float SHADOW_HORIZ_SCALE
-    static final float SHADOW_BOTTOM_SCALE
-    178:185:public void setCornerRadius(float)
-    320:320:public float getCornerRadius()
-    336:336:public float getMaxShadowSize()
-    340:342:public float getMinWidth()
-    346:348:public float getMinHeight()
+android.support.design.widget.ShadowDrawableWrapper
+android.support.design.widget.ShadowViewDelegate
 android.support.design.widget.Snackbar:
     public static final int LENGTH_INDEFINITE
     public static final int LENGTH_SHORT
@@ -179,16 +199,27 @@ android.support.design.widget.Snackbar:
     private static final int ANIMATION_FADE_DURATION
     private static final int MSG_SHOW
     private static final int MSG_DISMISS
+    private final android.content.Context mContext
+    private int mDuration
+    178:421:private Snackbar(android.view.ViewGroup)
+    209:212:public static android.support.design.widget.Snackbar make(android.view.View,java.lang.CharSequence,int)
     234:234:public static android.support.design.widget.Snackbar make(android.view.View,int,int)
+    238:262:private static android.view.ViewGroup findSuitableParent(android.view.View)
     273:273:public android.support.design.widget.Snackbar setAction(int,android.view.View$OnClickListener)
+    284:301:public android.support.design.widget.Snackbar setAction(java.lang.CharSequence,android.view.View$OnClickListener)
     310:312:public android.support.design.widget.Snackbar setActionTextColor(android.content.res.ColorStateList)
     321:323:public android.support.design.widget.Snackbar setActionTextColor(int)
+    333:335:public android.support.design.widget.Snackbar setText(java.lang.CharSequence)
     345:345:public android.support.design.widget.Snackbar setText(int)
+    357:358:public android.support.design.widget.Snackbar setDuration(int)
     368:368:public int getDuration()
     376:376:public android.view.View getView()
+    383:384:public void show()
     390:391:public void dismiss()
     402:403:public android.support.design.widget.Snackbar setCallback(android.support.design.widget.Snackbar$Callback)
     410:410:public boolean isShown()
+android.support.design.widget.Snackbar$2
+android.support.design.widget.Snackbar$3
 android.support.design.widget.Snackbar$Callback:
     public static final int DISMISS_EVENT_SWIPE
     public static final int DISMISS_EVENT_ACTION
@@ -202,13 +233,14 @@ android.support.design.widget.SnackbarManager:
     private static final int MSG_TIMEOUT
     private static final int SHORT_DURATION_MS
     private static final int LONG_DURATION_MS
+    71:100:public void show(int,android.support.design.widget.SnackbarManager$Callback)
     157:159:public boolean isCurrent(android.support.design.widget.SnackbarManager$Callback)
-android.support.design.widget.StateListAnimator:
-    73:73:android.view.animation.Animation getRunningAnimation()
-    159:159:java.util.ArrayList getTuples()
-android.support.design.widget.StateListAnimator$Tuple:
-    185:185:int[] getSpecs()
-    189:189:android.view.animation.Animation getAnimation()
+android.support.design.widget.SnackbarManager$SnackbarRecord:
+    172:175:SnackbarManager$SnackbarRecord(int,android.support.design.widget.SnackbarManager$Callback)
+    168:168:static synthetic int access$102(android.support.design.widget.SnackbarManager$SnackbarRecord,int)
+android.support.design.widget.StateListAnimator
+android.support.design.widget.StateListAnimator$1
+android.support.design.widget.StateListAnimator$Tuple
 android.support.design.widget.SwipeDismissBehavior:
     public static final int STATE_IDLE
     public static final int STATE_DRAGGING
@@ -3457,6 +3489,8 @@ android.support.v7.appcompat.R$styleable:
     933:933:public R$styleable()
 android.support.v7.graphics.drawable.DrawableUtils:
     25:25:public DrawableUtils()
+android.support.v7.graphics.drawable.DrawableWrapper:
+    211:211:public android.graphics.drawable.Drawable getWrappedDrawable()
 android.support.v7.graphics.drawable.DrawerArrowDrawable
 android.support.v7.graphics.drawable.DrawerArrowDrawable$ArrowDirection
 android.support.v7.internal.VersionUtils:

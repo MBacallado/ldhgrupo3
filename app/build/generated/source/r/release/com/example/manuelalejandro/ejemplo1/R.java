@@ -2251,7 +2251,6 @@ containing a value of this type.
         public static final int exitUntilCollapsed=0x7f0c0018;
         public static final int expand_activities_button=0x7f0c003f;
         public static final int expanded_menu=0x7f0c0052;
-        public static final int fab=0x7f0c006b;
         public static final int fill=0x7f0c002e;
         public static final int fill_horizontal=0x7f0c002f;
         public static final int fill_vertical=0x7f0c0022;
@@ -2284,6 +2283,7 @@ containing a value of this type.
         public static final int pin=0x7f0c001c;
         public static final int progress_circular=0x7f0c0007;
         public static final int progress_horizontal=0x7f0c0008;
+        public static final int proximidad=0x7f0c006b;
         public static final int radio=0x7f0c0055;
         public static final int right=0x7f0c0024;
         public static final int screen=0x7f0c0028;

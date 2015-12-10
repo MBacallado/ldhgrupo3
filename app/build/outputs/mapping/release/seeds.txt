@@ -1581,10 +1581,6 @@ android.support.design.widget.CoordinatorLayout: int getNestedScrollAxes()
 android.support.design.widget.CoordinatorLayout$Behavior: CoordinatorLayout$Behavior()
 android.support.design.widget.CoordinatorLayout$Behavior: CoordinatorLayout$Behavior(android.content.Context,android.util.AttributeSet)
 android.support.design.widget.CoordinatorLayout$SavedState: android.os.Parcelable$Creator CREATOR
-android.support.design.widget.FloatingActionButton
-android.support.design.widget.FloatingActionButton: FloatingActionButton(android.content.Context)
-android.support.design.widget.FloatingActionButton: FloatingActionButton(android.content.Context,android.util.AttributeSet)
-android.support.design.widget.FloatingActionButton: FloatingActionButton(android.content.Context,android.util.AttributeSet,int)
 android.support.design.widget.FloatingActionButton: void setRippleColor(int)
 android.support.design.widget.FloatingActionButton: android.content.res.ColorStateList getBackgroundTintList()
 android.support.design.widget.FloatingActionButton: void setBackgroundTintList(android.content.res.ColorStateList)
@@ -4009,7 +4005,6 @@ com.example.manuelalejandro.ejemplo1.R$id: int enterAlwaysCollapsed
 com.example.manuelalejandro.ejemplo1.R$id: int exitUntilCollapsed
 com.example.manuelalejandro.ejemplo1.R$id: int expand_activities_button
 com.example.manuelalejandro.ejemplo1.R$id: int expanded_menu
-com.example.manuelalejandro.ejemplo1.R$id: int fab
 com.example.manuelalejandro.ejemplo1.R$id: int fill
 com.example.manuelalejandro.ejemplo1.R$id: int fill_horizontal
 com.example.manuelalejandro.ejemplo1.R$id: int fill_vertical
@@ -4042,6 +4037,7 @@ com.example.manuelalejandro.ejemplo1.R$id: int parentPanel
 com.example.manuelalejandro.ejemplo1.R$id: int pin
 com.example.manuelalejandro.ejemplo1.R$id: int progress_circular
 com.example.manuelalejandro.ejemplo1.R$id: int progress_horizontal
+com.example.manuelalejandro.ejemplo1.R$id: int proximidad
 com.example.manuelalejandro.ejemplo1.R$id: int radio
 com.example.manuelalejandro.ejemplo1.R$id: int right
 com.example.manuelalejandro.ejemplo1.R$id: int screen

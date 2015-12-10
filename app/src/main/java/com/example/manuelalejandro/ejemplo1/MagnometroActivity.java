@@ -1,6 +1,7 @@
 package com.example.manuelalejandro.ejemplo1;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
@@ -42,6 +43,11 @@ public class MagnometroActivity extends Activity implements SensorEventListener{
         if (!sensores.isEmpty()){
             s = sensores.get(0);
             sensorM.registerListener(this,s,sensorM.SENSOR_DELAY_UI);
+        }
+        else
+        {
+            this.magneticView.setText("NO HAY SENSOR ACTIVO");
+            this.magneticView.setBackgroundColor(Color.rgb(255, 0, 0));
         }
     }
     /**

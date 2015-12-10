@@ -8,6 +8,7 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import java.util.List;
 
@@ -16,6 +17,7 @@ import java.util.List;
  */
 public class ProximidadActivity extends Activity implements SensorEventListener{
     LinearLayout fondo;
+    TextView texto;
     Sensor s;
     SensorManager sensorM;
     List<Sensor> sensores;
@@ -37,12 +39,18 @@ public class ProximidadActivity extends Activity implements SensorEventListener{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_proximidad);
         fondo = (LinearLayout) findViewById(R.id.fondo);
+        this.texto =(TextView) findViewById(R.id.proximidad);
 
         sensorM = (SensorManager) getSystemService(SENSOR_SERVICE);
         sensores = sensorM.getSensorList(Sensor.TYPE_PROXIMITY);
         if (!sensores.isEmpty()){
             s = sensores.get(0);
             sensorM.registerListener(this,s,sensorM.SENSOR_DELAY_UI);
+        }
+        else
+        {
+            this.texto.setText("NO HAY SENSOR ACTIVO");
+            this.texto.setBackgroundColor(Color.rgb(255, 0, 0));
         }
     }
     /**

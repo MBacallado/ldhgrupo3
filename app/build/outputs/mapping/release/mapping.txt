@@ -287,87 +287,7 @@ android.support.design.R$attr -> android.support.design.c:
     int windowMinWidthMajor -> windowMinWidthMajor
     int windowMinWidthMinor -> windowMinWidthMinor
     int windowNoTitle -> windowNoTitle
-android.support.design.R$color -> android.support.design.d:
-    int abc_background_cache_hint_selector_material_dark -> abc_background_cache_hint_selector_material_dark
-    int abc_background_cache_hint_selector_material_light -> abc_background_cache_hint_selector_material_light
-    int abc_color_highlight_material -> abc_color_highlight_material
-    int abc_input_method_navigation_guard -> abc_input_method_navigation_guard
-    int abc_primary_text_disable_only_material_dark -> abc_primary_text_disable_only_material_dark
-    int abc_primary_text_disable_only_material_light -> abc_primary_text_disable_only_material_light
-    int abc_primary_text_material_dark -> abc_primary_text_material_dark
-    int abc_primary_text_material_light -> abc_primary_text_material_light
-    int abc_search_url_text -> abc_search_url_text
-    int abc_search_url_text_normal -> abc_search_url_text_normal
-    int abc_search_url_text_pressed -> abc_search_url_text_pressed
-    int abc_search_url_text_selected -> abc_search_url_text_selected
-    int abc_secondary_text_material_dark -> abc_secondary_text_material_dark
-    int abc_secondary_text_material_light -> abc_secondary_text_material_light
-    int accent_material_dark -> accent_material_dark
-    int accent_material_light -> accent_material_light
-    int background_floating_material_dark -> background_floating_material_dark
-    int background_floating_material_light -> background_floating_material_light
-    int background_material_dark -> background_material_dark
-    int background_material_light -> background_material_light
-    int bright_foreground_disabled_material_dark -> bright_foreground_disabled_material_dark
-    int bright_foreground_disabled_material_light -> bright_foreground_disabled_material_light
-    int bright_foreground_inverse_material_dark -> bright_foreground_inverse_material_dark
-    int bright_foreground_inverse_material_light -> bright_foreground_inverse_material_light
-    int bright_foreground_material_dark -> bright_foreground_material_dark
-    int bright_foreground_material_light -> bright_foreground_material_light
-    int button_material_dark -> button_material_dark
-    int button_material_light -> button_material_light
-    int design_fab_shadow_end_color -> design_fab_shadow_end_color
-    int design_fab_shadow_mid_color -> design_fab_shadow_mid_color
-    int design_fab_shadow_start_color -> design_fab_shadow_start_color
-    int design_fab_stroke_end_inner_color -> design_fab_stroke_end_inner_color
-    int design_fab_stroke_end_outer_color -> design_fab_stroke_end_outer_color
-    int design_fab_stroke_top_inner_color -> design_fab_stroke_top_inner_color
-    int design_fab_stroke_top_outer_color -> design_fab_stroke_top_outer_color
-    int design_snackbar_background_color -> design_snackbar_background_color
-    int design_textinput_error_color -> design_textinput_error_color
-    int dim_foreground_disabled_material_dark -> dim_foreground_disabled_material_dark
-    int dim_foreground_disabled_material_light -> dim_foreground_disabled_material_light
-    int dim_foreground_material_dark -> dim_foreground_material_dark
-    int dim_foreground_material_light -> dim_foreground_material_light
-    int foreground_material_dark -> foreground_material_dark
-    int foreground_material_light -> foreground_material_light
-    int highlighted_text_material_dark -> highlighted_text_material_dark
-    int highlighted_text_material_light -> highlighted_text_material_light
-    int hint_foreground_material_dark -> hint_foreground_material_dark
-    int hint_foreground_material_light -> hint_foreground_material_light
-    int material_blue_grey_800 -> material_blue_grey_800
-    int material_blue_grey_900 -> material_blue_grey_900
-    int material_blue_grey_950 -> material_blue_grey_950
-    int material_deep_teal_200 -> material_deep_teal_200
-    int material_deep_teal_500 -> material_deep_teal_500
-    int material_grey_100 -> material_grey_100
-    int material_grey_300 -> material_grey_300
-    int material_grey_50 -> material_grey_50
-    int material_grey_600 -> material_grey_600
-    int material_grey_800 -> material_grey_800
-    int material_grey_850 -> material_grey_850
-    int material_grey_900 -> material_grey_900
-    int primary_dark_material_dark -> primary_dark_material_dark
-    int primary_dark_material_light -> primary_dark_material_light
-    int primary_material_dark -> primary_material_dark
-    int primary_material_light -> primary_material_light
-    int primary_text_default_material_dark -> primary_text_default_material_dark
-    int primary_text_default_material_light -> primary_text_default_material_light
-    int primary_text_disabled_material_dark -> primary_text_disabled_material_dark
-    int primary_text_disabled_material_light -> primary_text_disabled_material_light
-    int ripple_material_dark -> ripple_material_dark
-    int ripple_material_light -> ripple_material_light
-    int secondary_text_default_material_dark -> secondary_text_default_material_dark
-    int secondary_text_default_material_light -> secondary_text_default_material_light
-    int secondary_text_disabled_material_dark -> secondary_text_disabled_material_dark
-    int secondary_text_disabled_material_light -> secondary_text_disabled_material_light
-    int switch_thumb_disabled_material_dark -> switch_thumb_disabled_material_dark
-    int switch_thumb_disabled_material_light -> switch_thumb_disabled_material_light
-    int switch_thumb_material_dark -> switch_thumb_material_dark
-    int switch_thumb_material_light -> switch_thumb_material_light
-    int switch_thumb_normal_material_dark -> switch_thumb_normal_material_dark
-    int switch_thumb_normal_material_light -> switch_thumb_normal_material_light
-android.support.design.R$dimen -> android.support.design.e:
+android.support.design.R$dimen -> android.support.design.d:
     int abc_action_bar_content_inset_material -> abc_action_bar_content_inset_material
     int abc_action_bar_default_height_material -> abc_action_bar_default_height_material
     int abc_action_bar_default_padding_end_material -> abc_action_bar_default_padding_end_material
@@ -472,7 +392,7 @@ android.support.design.R$dimen -> android.support.design.e:
     int notification_large_icon_height -> notification_large_icon_height
     int notification_large_icon_width -> notification_large_icon_width
     int notification_subtext_size -> notification_subtext_size
-android.support.design.R$id -> android.support.design.f:
+android.support.design.R$id -> android.support.design.e:
     int action0 -> action0
     int action_bar -> action_bar
     int action_bar_activity_content -> action_bar_activity_content
@@ -598,7 +518,7 @@ android.support.design.R$id -> android.support.design.f:
     int view_offset_helper -> view_offset_helper
     int withText -> withText
     int wrap_content -> wrap_content
-android.support.design.R$layout -> android.support.design.g:
+android.support.design.R$layout -> android.support.design.f:
     int abc_action_bar_title_item -> abc_action_bar_title_item
     int abc_action_bar_up_container -> abc_action_bar_up_container
     int abc_action_bar_view_list_nav_layout -> abc_action_bar_view_list_nav_layout
@@ -647,7 +567,7 @@ android.support.design.R$layout -> android.support.design.g:
     int select_dialog_multichoice_material -> select_dialog_multichoice_material
     int select_dialog_singlechoice_material -> select_dialog_singlechoice_material
     int support_simple_spinner_dropdown_item -> support_simple_spinner_dropdown_item
-android.support.design.R$style -> android.support.design.h:
+android.support.design.R$style -> android.support.design.g:
     int AlertDialog_AppCompat -> AlertDialog_AppCompat
     int AlertDialog_AppCompat_Light -> AlertDialog_AppCompat_Light
     int Animation_AppCompat_Dialog -> Animation_AppCompat_Dialog
@@ -972,7 +892,7 @@ android.support.design.R$style -> android.support.design.h:
     int Widget_Design_Snackbar -> Widget_Design_Snackbar
     int Widget_Design_TabLayout -> Widget_Design_TabLayout
     int Widget_Design_TextInputLayout -> Widget_Design_TextInputLayout
-android.support.design.R$styleable -> android.support.design.i:
+android.support.design.R$styleable -> android.support.design.h:
     int[] ActionBar -> ActionBar
     int[] ActionBarLayout -> ActionBarLayout
     int ActionBarLayout_android_layout_gravity -> ActionBarLayout_android_layout_gravity
@@ -1450,11 +1370,6 @@ android.support.design.widget.AnimationUtils -> android.support.design.widget.a:
     android.view.animation.Interpolator DECELERATE_INTERPOLATOR -> c
     int lerp(int,int,float) -> a
     void <clinit>() -> <clinit>
-android.support.design.widget.AnimationUtils$AnimationListenerAdapter -> android.support.design.widget.b:
-    void <init>() -> <init>
-    void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
-    void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
-    void onAnimationRepeat(android.view.animation.Animation) -> onAnimationRepeat
 android.support.design.widget.AppBarLayout -> android.support.design.widget.AppBarLayout:
     int mTotalScrollRange -> b
     int mDownPreScrollRange -> c
@@ -1505,7 +1420,7 @@ android.support.design.widget.AppBarLayout -> android.support.design.widget.AppB
     boolean access$700(android.support.design.widget.AppBarLayout) -> g
     java.util.List access$800(android.support.design.widget.AppBarLayout) -> h
     int access$900(android.support.design.widget.AppBarLayout) -> i
-android.support.design.widget.AppBarLayout$1 -> android.support.design.widget.c:
+android.support.design.widget.AppBarLayout$1 -> android.support.design.widget.b:
     android.support.design.widget.AppBarLayout this$0 -> a
     void <init>(android.support.design.widget.AppBarLayout) -> <init>
     android.support.v4.view.WindowInsetsCompat onApplyWindowInsets(android.view.View,android.support.v4.view.WindowInsetsCompat) -> a
@@ -1553,15 +1468,15 @@ android.support.design.widget.AppBarLayout$Behavior -> android.support.design.wi
     void onNestedScroll(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.View,int,int,int,int) -> a
     void onStopNestedScroll(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.View) -> a
     boolean onStartNestedScroll(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.View,android.view.View,int) -> a
-android.support.design.widget.AppBarLayout$Behavior$1 -> android.support.design.widget.d:
+android.support.design.widget.AppBarLayout$Behavior$1 -> android.support.design.widget.c:
     android.support.design.widget.CoordinatorLayout val$coordinatorLayout -> a
     android.support.design.widget.AppBarLayout val$child -> b
     android.support.design.widget.AppBarLayout$Behavior this$0 -> c
     void <init>(android.support.design.widget.AppBarLayout$Behavior,android.support.design.widget.CoordinatorLayout,android.support.design.widget.AppBarLayout) -> <init>
     void onAnimationUpdate(android.support.design.widget.ValueAnimatorCompat) -> a
-android.support.design.widget.AppBarLayout$Behavior$DragCallback -> android.support.design.widget.e:
+android.support.design.widget.AppBarLayout$Behavior$DragCallback -> android.support.design.widget.d:
     boolean canDrag(android.support.design.widget.AppBarLayout) -> a
-android.support.design.widget.AppBarLayout$Behavior$SavedState -> android.support.design.widget.f:
+android.support.design.widget.AppBarLayout$Behavior$SavedState -> android.support.design.widget.e:
     int firstVisibleChildIndex -> a
     float firstVisibileChildPercentageShown -> b
     boolean firstVisibileChildAtMinimumHeight -> c
@@ -1570,13 +1485,13 @@ android.support.design.widget.AppBarLayout$Behavior$SavedState -> android.suppor
     void <init>(android.os.Parcelable) -> <init>
     void writeToParcel(android.os.Parcel,int) -> writeToParcel
     void <clinit>() -> <clinit>
-android.support.design.widget.AppBarLayout$Behavior$SavedState$1 -> android.support.design.widget.g:
+android.support.design.widget.AppBarLayout$Behavior$SavedState$1 -> android.support.design.widget.f:
     void <init>() -> <init>
     android.support.design.widget.AppBarLayout$Behavior$SavedState createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> a
     android.support.design.widget.AppBarLayout$Behavior$SavedState[] newArray(int) -> a
     java.lang.Object[] newArray(int) -> b
     java.lang.Object createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> b
-android.support.design.widget.AppBarLayout$LayoutParams -> android.support.design.widget.h:
+android.support.design.widget.AppBarLayout$LayoutParams -> android.support.design.widget.g:
     int mScrollFlags -> a
     android.view.animation.Interpolator mScrollInterpolator -> b
     void <init>(android.content.Context,android.util.AttributeSet) -> <init>
@@ -1586,7 +1501,7 @@ android.support.design.widget.AppBarLayout$LayoutParams -> android.support.desig
     void <init>(android.widget.LinearLayout$LayoutParams) -> <init>
     int getScrollFlags() -> a
     android.view.animation.Interpolator getScrollInterpolator() -> b
-android.support.design.widget.AppBarLayout$OnOffsetChangedListener -> android.support.design.widget.i:
+android.support.design.widget.AppBarLayout$OnOffsetChangedListener -> android.support.design.widget.h:
     void onOffsetChanged(android.support.design.widget.AppBarLayout,int) -> a
 android.support.design.widget.AppBarLayout$ScrollingViewBehavior -> android.support.design.widget.AppBarLayout$ScrollingViewBehavior:
     int mOverlayTop -> a
@@ -1602,38 +1517,6 @@ android.support.design.widget.AppBarLayout$ScrollingViewBehavior -> android.supp
     boolean onMeasureChild(android.support.design.widget.CoordinatorLayout,android.view.View,int,int,int,int) -> a
     int getTopAndBottomOffset() -> b
     boolean setTopAndBottomOffset(int) -> a
-android.support.design.widget.CircularBorderDrawable -> android.support.design.widget.j:
-    android.graphics.Paint mPaint -> a
-    android.graphics.Rect mRect -> b
-    android.graphics.RectF mRectF -> c
-    float mBorderWidth -> d
-    int mTopOuterStrokeColor -> e
-    int mTopInnerStrokeColor -> f
-    int mBottomOuterStrokeColor -> g
-    int mBottomInnerStrokeColor -> h
-    int mTintColor -> i
-    boolean mInvalidateShader -> j
-    void <init>() -> <init>
-    void setGradientColors(int,int,int,int) -> a
-    void setBorderWidth(float) -> a
-    void draw(android.graphics.Canvas) -> draw
-    boolean getPadding(android.graphics.Rect) -> getPadding
-    void setAlpha(int) -> setAlpha
-    void setTintColor(int) -> a
-    void setColorFilter(android.graphics.ColorFilter) -> setColorFilter
-    int getOpacity() -> getOpacity
-    void onBoundsChange(android.graphics.Rect) -> onBoundsChange
-    android.graphics.Shader createGradientShader() -> a
-android.support.design.widget.CircularBorderDrawableLollipop -> android.support.design.widget.k:
-    android.content.res.ColorStateList mTint -> e
-    android.graphics.PorterDuff$Mode mTintMode -> f
-    android.graphics.PorterDuffColorFilter mTintFilter -> g
-    void <init>() -> <init>
-    void draw(android.graphics.Canvas) -> draw
-    void setTintList(android.content.res.ColorStateList) -> setTintList
-    void setTintMode(android.graphics.PorterDuff$Mode) -> setTintMode
-    void getOutline(android.graphics.Outline) -> getOutline
-    android.graphics.PorterDuffColorFilter updateTintFilter(android.content.res.ColorStateList,android.graphics.PorterDuff$Mode) -> a
 android.support.design.widget.CoordinatorLayout -> android.support.design.widget.CoordinatorLayout:
     java.lang.String WIDGET_PACKAGE_NAME -> a
     java.lang.Class[] CONSTRUCTOR_PARAMS -> b
@@ -1734,16 +1617,16 @@ android.support.design.widget.CoordinatorLayout -> android.support.design.widget
     void access$000(android.support.design.widget.CoordinatorLayout,android.support.v4.view.WindowInsetsCompat) -> a
     android.view.ViewGroup$OnHierarchyChangeListener access$100(android.support.design.widget.CoordinatorLayout) -> a
     void <clinit>() -> <clinit>
-android.support.design.widget.CoordinatorLayout$1 -> android.support.design.widget.l:
+android.support.design.widget.CoordinatorLayout$1 -> android.support.design.widget.i:
     android.support.design.widget.CoordinatorLayout this$0 -> a
     void <init>(android.support.design.widget.CoordinatorLayout) -> <init>
     int compare(android.view.View,android.view.View) -> a
     int compare(java.lang.Object,java.lang.Object) -> compare
-android.support.design.widget.CoordinatorLayout$ApplyInsetsListener -> android.support.design.widget.m:
+android.support.design.widget.CoordinatorLayout$ApplyInsetsListener -> android.support.design.widget.j:
     android.support.design.widget.CoordinatorLayout this$0 -> a
     void <init>(android.support.design.widget.CoordinatorLayout) -> <init>
     android.support.v4.view.WindowInsetsCompat onApplyWindowInsets(android.view.View,android.support.v4.view.WindowInsetsCompat) -> a
-android.support.design.widget.CoordinatorLayout$Behavior -> android.support.design.widget.n:
+android.support.design.widget.CoordinatorLayout$Behavior -> android.support.design.widget.k:
     void <init>() -> <init>
     void <init>(android.content.Context,android.util.AttributeSet) -> <init>
     boolean onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.MotionEvent) -> a
@@ -1766,14 +1649,14 @@ android.support.design.widget.CoordinatorLayout$Behavior -> android.support.desi
     android.support.v4.view.WindowInsetsCompat onApplyWindowInsets(android.support.design.widget.CoordinatorLayout,android.view.View,android.support.v4.view.WindowInsetsCompat) -> a
     void onRestoreInstanceState(android.support.design.widget.CoordinatorLayout,android.view.View,android.os.Parcelable) -> a
     android.os.Parcelable onSaveInstanceState(android.support.design.widget.CoordinatorLayout,android.view.View) -> a
-android.support.design.widget.CoordinatorLayout$DefaultBehavior -> android.support.design.widget.o:
+android.support.design.widget.CoordinatorLayout$DefaultBehavior -> android.support.design.widget.l:
     java.lang.Class value() -> a
-android.support.design.widget.CoordinatorLayout$HierarchyChangeListener -> android.support.design.widget.p:
+android.support.design.widget.CoordinatorLayout$HierarchyChangeListener -> android.support.design.widget.m:
     android.support.design.widget.CoordinatorLayout this$0 -> a
     void <init>(android.support.design.widget.CoordinatorLayout) -> <init>
     void onChildViewAdded(android.view.View,android.view.View) -> onChildViewAdded
     void onChildViewRemoved(android.view.View,android.view.View) -> onChildViewRemoved
-android.support.design.widget.CoordinatorLayout$LayoutParams -> android.support.design.widget.q:
+android.support.design.widget.CoordinatorLayout$LayoutParams -> android.support.design.widget.n:
     android.support.design.widget.CoordinatorLayout$Behavior mBehavior -> a
     boolean mBehaviorResolved -> b
     int gravity -> c
@@ -1811,30 +1694,30 @@ android.support.design.widget.CoordinatorLayout$LayoutParams -> android.support.
     android.view.View findAnchorView(android.support.design.widget.CoordinatorLayout,android.view.View) -> b
     void resolveAnchorView(android.view.View,android.support.design.widget.CoordinatorLayout) -> a
     boolean verifyAnchorView(android.view.View,android.support.design.widget.CoordinatorLayout) -> b
-android.support.design.widget.CoordinatorLayout$OnPreDrawListener -> android.support.design.widget.r:
+android.support.design.widget.CoordinatorLayout$OnPreDrawListener -> android.support.design.widget.o:
     android.support.design.widget.CoordinatorLayout this$0 -> a
     void <init>(android.support.design.widget.CoordinatorLayout) -> <init>
     boolean onPreDraw() -> onPreDraw
-android.support.design.widget.CoordinatorLayout$SavedState -> android.support.design.widget.s:
+android.support.design.widget.CoordinatorLayout$SavedState -> android.support.design.widget.p:
     android.util.SparseArray behaviorStates -> a
     android.os.Parcelable$Creator CREATOR -> CREATOR
     void <init>(android.os.Parcel,java.lang.ClassLoader) -> <init>
     void <init>(android.os.Parcelable) -> <init>
     void writeToParcel(android.os.Parcel,int) -> writeToParcel
     void <clinit>() -> <clinit>
-android.support.design.widget.CoordinatorLayout$SavedState$1 -> android.support.design.widget.t:
+android.support.design.widget.CoordinatorLayout$SavedState$1 -> android.support.design.widget.q:
     void <init>() -> <init>
     android.support.design.widget.CoordinatorLayout$SavedState createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> a
     android.support.design.widget.CoordinatorLayout$SavedState[] newArray(int) -> a
     java.lang.Object[] newArray(int) -> b
     java.lang.Object createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> b
-android.support.design.widget.CoordinatorLayout$ViewElevationComparator -> android.support.design.widget.u:
+android.support.design.widget.CoordinatorLayout$ViewElevationComparator -> android.support.design.widget.r:
     void <init>() -> <init>
     int compare(android.view.View,android.view.View) -> a
     int compare(java.lang.Object,java.lang.Object) -> compare
-android.support.design.widget.CoordinatorLayoutInsetsHelper -> android.support.design.widget.v:
+android.support.design.widget.CoordinatorLayoutInsetsHelper -> android.support.design.widget.s:
     void setupForWindowInsets(android.view.View,android.support.v4.view.OnApplyWindowInsetsListener) -> a
-android.support.design.widget.CoordinatorLayoutInsetsHelperLollipop -> android.support.design.widget.w:
+android.support.design.widget.CoordinatorLayoutInsetsHelperLollipop -> android.support.design.widget.t:
     void <init>() -> <init>
     void setupForWindowInsets(android.view.View,android.support.v4.view.OnApplyWindowInsetsListener) -> a
 android.support.design.widget.FloatingActionButton -> android.support.design.widget.FloatingActionButton:
@@ -1843,12 +1726,8 @@ android.support.design.widget.FloatingActionButton -> android.support.design.wid
     int mBorderWidth -> c
     int mRippleColor -> d
     int mSize -> e
-    int mContentPadding -> f
-    android.graphics.Rect mShadowPadding -> g
-    android.support.design.widget.FloatingActionButtonImpl mImpl -> h
-    void <init>(android.content.Context) -> <init>
-    void <init>(android.content.Context,android.util.AttributeSet) -> <init>
-    void <init>(android.content.Context,android.util.AttributeSet,int) -> <init>
+    android.graphics.Rect mShadowPadding -> f
+    android.support.design.widget.FloatingActionButtonImpl mImpl -> g
     void onMeasure(int,int) -> onMeasure
     void setRippleColor(int) -> setRippleColor
     android.content.res.ColorStateList getBackgroundTintList() -> getBackgroundTintList
@@ -1862,16 +1741,7 @@ android.support.design.widget.FloatingActionButton -> android.support.design.wid
     void drawableStateChanged() -> drawableStateChanged
     void jumpDrawablesToCurrentState() -> jumpDrawablesToCurrentState
     int resolveAdjustedSize(int,int) -> a
-    android.graphics.PorterDuff$Mode parseTintMode(int,android.graphics.PorterDuff$Mode) -> a
     android.graphics.Rect access$000(android.support.design.widget.FloatingActionButton) -> a
-    int access$100(android.support.design.widget.FloatingActionButton) -> b
-    void access$201(android.support.design.widget.FloatingActionButton,android.graphics.drawable.Drawable) -> a
-android.support.design.widget.FloatingActionButton$1 -> android.support.design.widget.x:
-    android.support.design.widget.FloatingActionButton this$0 -> a
-    void <init>(android.support.design.widget.FloatingActionButton) -> <init>
-    float getRadius() -> a
-    void setShadowPadding(int,int,int,int) -> a
-    void setBackgroundDrawable(android.graphics.drawable.Drawable) -> a
 android.support.design.widget.FloatingActionButton$Behavior -> android.support.design.widget.FloatingActionButton$Behavior:
     boolean SNACKBAR_BEHAVIOR_ENABLED -> a
     float mFabTranslationY -> b
@@ -1888,123 +1758,21 @@ android.support.design.widget.FloatingActionButton$Behavior -> android.support.d
     boolean onDependentViewChanged(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.View) -> c
     boolean layoutDependsOn(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.View) -> b
     void <clinit>() -> <clinit>
-android.support.design.widget.FloatingActionButtonEclairMr1 -> android.support.design.widget.y:
-    android.graphics.drawable.Drawable mShapeDrawable -> g
-    android.graphics.drawable.Drawable mRippleDrawable -> h
-    android.graphics.drawable.Drawable mBorderDrawable -> i
-    float mElevation -> j
-    float mPressedTranslationZ -> k
-    int mAnimationDuration -> l
-    android.support.design.widget.StateListAnimator mStateListAnimator -> m
-    android.support.design.widget.ShadowDrawableWrapper mShadowDrawable -> a
-    boolean mIsHiding -> n
-    void <init>(android.view.View,android.support.design.widget.ShadowViewDelegate) -> <init>
-    void setBackgroundDrawable(android.graphics.drawable.Drawable,android.content.res.ColorStateList,android.graphics.PorterDuff$Mode,int,int) -> a
-    android.graphics.drawable.Drawable mutateDrawable(android.graphics.drawable.Drawable) -> a
-    void setBackgroundTintList(android.content.res.ColorStateList) -> a
-    void setBackgroundTintMode(android.graphics.PorterDuff$Mode) -> a
-    void setRippleColor(int) -> a
-    void setElevation(float) -> a
-    void setPressedTranslationZ(float) -> b
-    void onDrawableStateChanged(int[]) -> a
-    void jumpDrawableToCurrentState() -> a
-    void hide(android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> a
-    void show(android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> b
-    void updatePadding() -> c
-    android.view.animation.Animation setupAnimation(android.view.animation.Animation) -> a
-    android.content.res.ColorStateList createColorStateList(int) -> b
-    boolean access$202(android.support.design.widget.FloatingActionButtonEclairMr1,boolean) -> a
-    float access$400(android.support.design.widget.FloatingActionButtonEclairMr1) -> a
-    float access$500(android.support.design.widget.FloatingActionButtonEclairMr1) -> b
-android.support.design.widget.FloatingActionButtonEclairMr1$1 -> android.support.design.widget.z:
-    android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener val$listener -> a
-    android.support.design.widget.FloatingActionButtonEclairMr1 this$0 -> b
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1,android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> <init>
-    void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
-    void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
-android.support.design.widget.FloatingActionButtonEclairMr1$2 -> android.support.design.widget.aa:
-    android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener val$listener -> a
-    android.support.design.widget.FloatingActionButtonEclairMr1 this$0 -> b
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1,android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> <init>
-    void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
-android.support.design.widget.FloatingActionButtonEclairMr1$BaseShadowAnimation -> android.support.design.widget.ab:
-    float mShadowSizeStart -> b
-    float mShadowSizeDiff -> c
-    android.support.design.widget.FloatingActionButtonEclairMr1 this$0 -> a
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1) -> <init>
-    void reset() -> reset
-    void applyTransformation(float,android.view.animation.Transformation) -> applyTransformation
-    float getTargetShadowSize() -> a
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1,android.support.design.widget.FloatingActionButtonEclairMr1$1) -> <init>
-android.support.design.widget.FloatingActionButtonEclairMr1$ElevateToTranslationZAnimation -> android.support.design.widget.ac:
-    android.support.design.widget.FloatingActionButtonEclairMr1 this$0 -> b
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1) -> <init>
-    float getTargetShadowSize() -> a
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1,android.support.design.widget.FloatingActionButtonEclairMr1$1) -> <init>
-android.support.design.widget.FloatingActionButtonEclairMr1$ResetElevationAnimation -> android.support.design.widget.ad:
-    android.support.design.widget.FloatingActionButtonEclairMr1 this$0 -> b
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1) -> <init>
-    float getTargetShadowSize() -> a
-    void <init>(android.support.design.widget.FloatingActionButtonEclairMr1,android.support.design.widget.FloatingActionButtonEclairMr1$1) -> <init>
-android.support.design.widget.FloatingActionButtonHoneycombMr1 -> android.support.design.widget.ae:
-    boolean mIsHiding -> g
-    void <init>(android.view.View,android.support.design.widget.ShadowViewDelegate) -> <init>
-    void hide(android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> a
-    void show(android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> b
-    boolean access$002(android.support.design.widget.FloatingActionButtonHoneycombMr1,boolean) -> a
-android.support.design.widget.FloatingActionButtonHoneycombMr1$1 -> android.support.design.widget.af:
-    android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener val$listener -> a
-    android.support.design.widget.FloatingActionButtonHoneycombMr1 this$0 -> b
-    void <init>(android.support.design.widget.FloatingActionButtonHoneycombMr1,android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> <init>
-    void onAnimationStart(android.animation.Animator) -> onAnimationStart
-    void onAnimationCancel(android.animation.Animator) -> onAnimationCancel
-    void onAnimationEnd(android.animation.Animator) -> onAnimationEnd
-android.support.design.widget.FloatingActionButtonHoneycombMr1$2 -> android.support.design.widget.ag:
-    android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener val$listener -> a
-    android.support.design.widget.FloatingActionButtonHoneycombMr1 this$0 -> b
-    void <init>(android.support.design.widget.FloatingActionButtonHoneycombMr1,android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> <init>
-    void onAnimationStart(android.animation.Animator) -> onAnimationStart
-    void onAnimationEnd(android.animation.Animator) -> onAnimationEnd
-android.support.design.widget.FloatingActionButtonImpl -> android.support.design.widget.ah:
-    int[] PRESSED_ENABLED_STATE_SET -> b
-    int[] FOCUSED_ENABLED_STATE_SET -> c
-    int[] EMPTY_STATE_SET -> d
-    android.view.View mView -> e
-    android.support.design.widget.ShadowViewDelegate mShadowViewDelegate -> f
-    void <init>(android.view.View,android.support.design.widget.ShadowViewDelegate) -> <init>
+android.support.design.widget.FloatingActionButtonImpl -> android.support.design.widget.u:
+    int[] PRESSED_ENABLED_STATE_SET -> a
+    int[] FOCUSED_ENABLED_STATE_SET -> b
+    int[] EMPTY_STATE_SET -> c
     void setBackgroundDrawable(android.graphics.drawable.Drawable,android.content.res.ColorStateList,android.graphics.PorterDuff$Mode,int,int) -> a
     void setBackgroundTintList(android.content.res.ColorStateList) -> a
     void setBackgroundTintMode(android.graphics.PorterDuff$Mode) -> a
     void setRippleColor(int) -> a
-    void setElevation(float) -> a
-    void setPressedTranslationZ(float) -> b
     void onDrawableStateChanged(int[]) -> a
     void jumpDrawableToCurrentState() -> a
     void hide(android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> a
     void show(android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener) -> b
-    android.graphics.drawable.Drawable createBorderDrawable(int,android.content.res.ColorStateList) -> a
-    android.support.design.widget.CircularBorderDrawable newCircularDrawable() -> b
     void <clinit>() -> <clinit>
-android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener -> android.support.design.widget.ai:
-    void onShown() -> a
-    void onHidden() -> b
-android.support.design.widget.FloatingActionButtonLollipop -> android.support.design.widget.aj:
-    android.graphics.drawable.Drawable mShapeDrawable -> g
-    android.graphics.drawable.RippleDrawable mRippleDrawable -> h
-    android.graphics.drawable.Drawable mBorderDrawable -> i
-    android.view.animation.Interpolator mInterpolator -> j
-    void <init>(android.view.View,android.support.design.widget.ShadowViewDelegate) -> <init>
-    void setBackgroundDrawable(android.graphics.drawable.Drawable,android.content.res.ColorStateList,android.graphics.PorterDuff$Mode,int,int) -> a
-    void setBackgroundTintList(android.content.res.ColorStateList) -> a
-    void setBackgroundTintMode(android.graphics.PorterDuff$Mode) -> a
-    void setRippleColor(int) -> a
-    void setElevation(float) -> a
-    void setPressedTranslationZ(float) -> b
-    void onDrawableStateChanged(int[]) -> a
-    void jumpDrawableToCurrentState() -> a
-    android.animation.Animator setupAnimator(android.animation.Animator) -> a
-    android.support.design.widget.CircularBorderDrawable newCircularDrawable() -> b
-android.support.design.widget.HeaderBehavior -> android.support.design.widget.ak:
+android.support.design.widget.FloatingActionButtonImpl$InternalVisibilityChangedListener -> android.support.design.widget.v:
+android.support.design.widget.HeaderBehavior -> android.support.design.widget.w:
     java.lang.Runnable mFlingRunnable -> a
     android.support.v4.widget.ScrollerCompat mScroller -> b
     boolean mIsBeingDragged -> c
@@ -2026,151 +1794,93 @@ android.support.design.widget.HeaderBehavior -> android.support.design.widget.ak
     int getScrollRangeForDragFling(android.view.View) -> a
     void ensureVelocityTracker() -> c
     android.support.v4.widget.ScrollerCompat access$000(android.support.design.widget.HeaderBehavior) -> a
-android.support.design.widget.HeaderBehavior$FlingRunnable -> android.support.design.widget.al:
+android.support.design.widget.HeaderBehavior$FlingRunnable -> android.support.design.widget.x:
     android.support.design.widget.CoordinatorLayout mParent -> b
     android.view.View mLayout -> c
     android.support.design.widget.HeaderBehavior this$0 -> a
     void <init>(android.support.design.widget.HeaderBehavior,android.support.design.widget.CoordinatorLayout,android.view.View) -> <init>
     void run() -> run
-android.support.design.widget.HeaderScrollingViewBehavior -> android.support.design.widget.am:
+android.support.design.widget.HeaderScrollingViewBehavior -> android.support.design.widget.y:
     void <init>() -> <init>
     void <init>(android.content.Context,android.util.AttributeSet) -> <init>
     boolean onMeasureChild(android.support.design.widget.CoordinatorLayout,android.view.View,int,int,int,int) -> a
     android.view.View findFirstDependency(java.util.List) -> a
     int getScrollRange(android.view.View) -> a
-android.support.design.widget.MathUtils -> android.support.design.widget.an:
+android.support.design.widget.MathUtils -> android.support.design.widget.z:
     int constrain(int,int,int) -> a
-android.support.design.widget.ShadowDrawableWrapper -> android.support.design.widget.ao:
-    double COS_45 -> a
-    android.graphics.Paint mCornerShadowPaint -> b
-    android.graphics.Paint mEdgeShadowPaint -> c
-    android.graphics.RectF mContentBounds -> d
-    float mCornerRadius -> e
-    android.graphics.Path mCornerShadowPath -> f
-    float mMaxShadowSize -> g
-    float mRawMaxShadowSize -> h
-    float mShadowSize -> i
-    float mRawShadowSize -> j
-    boolean mDirty -> k
-    int mShadowStartColor -> l
-    int mShadowMiddleColor -> m
-    int mShadowEndColor -> n
-    boolean mAddPaddingForCorners -> o
-    boolean mPrintedShadowClipWarning -> p
-    void <init>(android.content.res.Resources,android.graphics.drawable.Drawable,float,float,float) -> <init>
-    int toEven(float) -> c
-    void setAddPaddingForCorners(boolean) -> a
-    void setAlpha(int) -> setAlpha
-    void onBoundsChange(android.graphics.Rect) -> onBoundsChange
-    void setShadowSize(float,float) -> a
-    boolean getPadding(android.graphics.Rect) -> getPadding
-    float calculateVerticalPadding(float,float,boolean) -> a
-    float calculateHorizontalPadding(float,float,boolean) -> b
-    int getOpacity() -> getOpacity
-    void draw(android.graphics.Canvas) -> draw
-    void drawShadow(android.graphics.Canvas) -> a
-    void buildShadowCorners() -> c
-    void buildComponents(android.graphics.Rect) -> a
-    void setShadowSize(float) -> a
-    void setMaxShadowSize(float) -> b
-    float getShadowSize() -> a
-    void <clinit>() -> <clinit>
-android.support.design.widget.ShadowViewDelegate -> android.support.design.widget.ap:
-    float getRadius() -> a
-    void setShadowPadding(int,int,int,int) -> a
-    void setBackgroundDrawable(android.graphics.drawable.Drawable) -> a
 android.support.design.widget.Snackbar -> android.support.design.widget.Snackbar:
     android.os.Handler sHandler -> a
     android.view.ViewGroup mTargetParent -> b
-    android.content.Context mContext -> c
-    android.support.design.widget.Snackbar$SnackbarLayout mView -> d
-    int mDuration -> e
-    android.support.design.widget.Snackbar$Callback mCallback -> f
-    android.support.design.widget.SnackbarManager$Callback mManagerCallback -> g
-    void <init>(android.view.ViewGroup) -> <init>
-    android.support.design.widget.Snackbar make(android.view.View,java.lang.CharSequence,int) -> a
-    android.view.ViewGroup findSuitableParent(android.view.View) -> a
-    android.support.design.widget.Snackbar setAction(java.lang.CharSequence,android.view.View$OnClickListener) -> a
-    android.support.design.widget.Snackbar setText(java.lang.CharSequence) -> a
-    android.support.design.widget.Snackbar setDuration(int) -> a
-    void show() -> a
-    void dispatchDismiss(int) -> c
-    boolean isShownOrQueued() -> b
-    void showView() -> c
-    void animateViewIn() -> e
-    void animateViewOut(int) -> d
-    void hideView(int) -> b
-    void onViewHidden(int) -> e
-    boolean isBeingDragged() -> f
+    android.support.design.widget.Snackbar$SnackbarLayout mView -> c
+    android.support.design.widget.Snackbar$Callback mCallback -> d
+    android.support.design.widget.SnackbarManager$Callback mManagerCallback -> e
+    void dispatchDismiss(int) -> b
+    boolean isShownOrQueued() -> a
+    void showView() -> b
+    void animateViewIn() -> d
+    void animateViewOut(int) -> c
+    void hideView(int) -> a
+    void onViewHidden(int) -> d
+    boolean isBeingDragged() -> e
     void access$000(android.support.design.widget.Snackbar,int) -> a
-    android.os.Handler access$100() -> d
+    android.os.Handler access$100() -> c
     android.support.design.widget.SnackbarManager$Callback access$200(android.support.design.widget.Snackbar) -> a
     void access$300(android.support.design.widget.Snackbar,int) -> b
     void access$400(android.support.design.widget.Snackbar) -> b
     android.support.design.widget.Snackbar$SnackbarLayout access$500(android.support.design.widget.Snackbar) -> c
     android.support.design.widget.Snackbar$Callback access$600(android.support.design.widget.Snackbar) -> d
     void <clinit>() -> <clinit>
-android.support.design.widget.Snackbar$1 -> android.support.design.widget.aq:
+android.support.design.widget.Snackbar$1 -> android.support.design.widget.aa:
     void <init>() -> <init>
     boolean handleMessage(android.os.Message) -> handleMessage
-android.support.design.widget.Snackbar$10 -> android.support.design.widget.ar:
+android.support.design.widget.Snackbar$10 -> android.support.design.widget.ab:
     int val$event -> a
     android.support.design.widget.Snackbar this$0 -> b
     void <init>(android.support.design.widget.Snackbar,int) -> <init>
     void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
     void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
     void onAnimationRepeat(android.view.animation.Animation) -> onAnimationRepeat
-android.support.design.widget.Snackbar$2 -> android.support.design.widget.as:
-    android.view.View$OnClickListener val$listener -> a
-    android.support.design.widget.Snackbar this$0 -> b
-    void <init>(android.support.design.widget.Snackbar,android.view.View$OnClickListener) -> <init>
-    void onClick(android.view.View) -> onClick
-android.support.design.widget.Snackbar$3 -> android.support.design.widget.at:
-    android.support.design.widget.Snackbar this$0 -> a
-    void <init>(android.support.design.widget.Snackbar) -> <init>
-    void show() -> a
-    void dismiss(int) -> a
-android.support.design.widget.Snackbar$4 -> android.support.design.widget.au:
+android.support.design.widget.Snackbar$4 -> android.support.design.widget.ac:
     android.support.design.widget.Snackbar this$0 -> a
     void <init>(android.support.design.widget.Snackbar) -> <init>
     void onDismiss(android.view.View) -> a
     void onDragStateChanged(int) -> a
-android.support.design.widget.Snackbar$5 -> android.support.design.widget.av:
+android.support.design.widget.Snackbar$5 -> android.support.design.widget.ad:
     android.support.design.widget.Snackbar this$0 -> a
     void <init>(android.support.design.widget.Snackbar) -> <init>
     void onViewAttachedToWindow(android.view.View) -> a
     void onViewDetachedFromWindow(android.view.View) -> b
-android.support.design.widget.Snackbar$5$1 -> android.support.design.widget.aw:
+android.support.design.widget.Snackbar$5$1 -> android.support.design.widget.ae:
     android.support.design.widget.Snackbar$5 this$1 -> a
     void <init>(android.support.design.widget.Snackbar$5) -> <init>
     void run() -> run
-android.support.design.widget.Snackbar$6 -> android.support.design.widget.ax:
+android.support.design.widget.Snackbar$6 -> android.support.design.widget.af:
     android.support.design.widget.Snackbar this$0 -> a
     void <init>(android.support.design.widget.Snackbar) -> <init>
     void onLayoutChange(android.view.View,int,int,int,int) -> a
-android.support.design.widget.Snackbar$7 -> android.support.design.widget.ay:
+android.support.design.widget.Snackbar$7 -> android.support.design.widget.ag:
     android.support.design.widget.Snackbar this$0 -> a
     void <init>(android.support.design.widget.Snackbar) -> <init>
     void onAnimationStart(android.view.View) -> a
     void onAnimationEnd(android.view.View) -> b
-android.support.design.widget.Snackbar$8 -> android.support.design.widget.az:
+android.support.design.widget.Snackbar$8 -> android.support.design.widget.ah:
     android.support.design.widget.Snackbar this$0 -> a
     void <init>(android.support.design.widget.Snackbar) -> <init>
     void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
     void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
     void onAnimationRepeat(android.view.animation.Animation) -> onAnimationRepeat
-android.support.design.widget.Snackbar$9 -> android.support.design.widget.ba:
+android.support.design.widget.Snackbar$9 -> android.support.design.widget.ai:
     int val$event -> a
     android.support.design.widget.Snackbar this$0 -> b
     void <init>(android.support.design.widget.Snackbar,int) -> <init>
     void onAnimationStart(android.view.View) -> a
     void onAnimationEnd(android.view.View) -> b
-android.support.design.widget.Snackbar$Behavior -> android.support.design.widget.bb:
+android.support.design.widget.Snackbar$Behavior -> android.support.design.widget.aj:
     android.support.design.widget.Snackbar this$0 -> a
     void <init>(android.support.design.widget.Snackbar) -> <init>
     boolean onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout,android.support.design.widget.Snackbar$SnackbarLayout,android.view.MotionEvent) -> a
     boolean onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout,android.view.View,android.view.MotionEvent) -> a
-android.support.design.widget.Snackbar$Callback -> android.support.design.widget.bc:
+android.support.design.widget.Snackbar$Callback -> android.support.design.widget.ak:
     void onDismissed(android.support.design.widget.Snackbar,int) -> a
     void onShown(android.support.design.widget.Snackbar) -> a
 android.support.design.widget.Snackbar$SnackbarLayout -> android.support.design.widget.Snackbar$SnackbarLayout:
@@ -2195,12 +1905,12 @@ android.support.design.widget.Snackbar$SnackbarLayout -> android.support.design.
     void setOnAttachStateChangeListener(android.support.design.widget.Snackbar$SnackbarLayout$OnAttachStateChangeListener) -> setOnAttachStateChangeListener
     boolean updateViewsWithinLayout(int,int,int) -> a
     void updateTopBottomPadding(android.view.View,int,int) -> a
-android.support.design.widget.Snackbar$SnackbarLayout$OnAttachStateChangeListener -> android.support.design.widget.bd:
+android.support.design.widget.Snackbar$SnackbarLayout$OnAttachStateChangeListener -> android.support.design.widget.al:
     void onViewAttachedToWindow(android.view.View) -> a
     void onViewDetachedFromWindow(android.view.View) -> b
-android.support.design.widget.Snackbar$SnackbarLayout$OnLayoutChangeListener -> android.support.design.widget.be:
+android.support.design.widget.Snackbar$SnackbarLayout$OnLayoutChangeListener -> android.support.design.widget.am:
     void onLayoutChange(android.view.View,int,int,int,int) -> a
-android.support.design.widget.SnackbarManager -> android.support.design.widget.bf:
+android.support.design.widget.SnackbarManager -> android.support.design.widget.an:
     android.support.design.widget.SnackbarManager sSnackbarManager -> a
     java.lang.Object mLock -> b
     android.os.Handler mHandler -> c
@@ -2208,7 +1918,6 @@ android.support.design.widget.SnackbarManager -> android.support.design.widget.b
     android.support.design.widget.SnackbarManager$SnackbarRecord mNextSnackbar -> e
     android.support.design.widget.SnackbarManager getInstance() -> a
     void <init>() -> <init>
-    void show(int,android.support.design.widget.SnackbarManager$Callback) -> a
     void dismiss(android.support.design.widget.SnackbarManager$Callback,int) -> a
     void onDismissed(android.support.design.widget.SnackbarManager$Callback) -> a
     void onShown(android.support.design.widget.SnackbarManager$Callback) -> b
@@ -2222,49 +1931,19 @@ android.support.design.widget.SnackbarManager -> android.support.design.widget.b
     void scheduleTimeoutLocked(android.support.design.widget.SnackbarManager$SnackbarRecord) -> a
     void handleTimeout(android.support.design.widget.SnackbarManager$SnackbarRecord) -> b
     void access$000(android.support.design.widget.SnackbarManager,android.support.design.widget.SnackbarManager$SnackbarRecord) -> a
-android.support.design.widget.SnackbarManager$1 -> android.support.design.widget.bg:
+android.support.design.widget.SnackbarManager$1 -> android.support.design.widget.ao:
     android.support.design.widget.SnackbarManager this$0 -> a
     void <init>(android.support.design.widget.SnackbarManager) -> <init>
     boolean handleMessage(android.os.Message) -> handleMessage
-android.support.design.widget.SnackbarManager$Callback -> android.support.design.widget.bh:
+android.support.design.widget.SnackbarManager$Callback -> android.support.design.widget.ap:
     void show() -> a
     void dismiss(int) -> a
-android.support.design.widget.SnackbarManager$SnackbarRecord -> android.support.design.widget.bi:
+android.support.design.widget.SnackbarManager$SnackbarRecord -> android.support.design.widget.aq:
     java.lang.ref.WeakReference callback -> a
     int duration -> b
-    void <init>(int,android.support.design.widget.SnackbarManager$Callback) -> <init>
     boolean isSnackbar(android.support.design.widget.SnackbarManager$Callback) -> a
-    int access$102(android.support.design.widget.SnackbarManager$SnackbarRecord,int) -> a
     java.lang.ref.WeakReference access$200(android.support.design.widget.SnackbarManager$SnackbarRecord) -> a
     int access$100(android.support.design.widget.SnackbarManager$SnackbarRecord) -> b
-android.support.design.widget.StateListAnimator -> android.support.design.widget.bj:
-    java.util.ArrayList mTuples -> a
-    android.support.design.widget.StateListAnimator$Tuple mLastMatch -> b
-    android.view.animation.Animation mRunningAnimation -> c
-    java.lang.ref.WeakReference mViewRef -> d
-    android.view.animation.Animation$AnimationListener mAnimationListener -> e
-    void <init>() -> <init>
-    void addState(int[],android.view.animation.Animation) -> a
-    android.view.View getTarget() -> a
-    void setTarget(android.view.View) -> a
-    void clearTarget() -> c
-    void setState(int[]) -> a
-    void start(android.support.design.widget.StateListAnimator$Tuple) -> a
-    void cancel() -> d
-    void jumpToCurrentState() -> b
-    android.view.animation.Animation access$000(android.support.design.widget.StateListAnimator) -> a
-    android.view.animation.Animation access$002(android.support.design.widget.StateListAnimator,android.view.animation.Animation) -> a
-android.support.design.widget.StateListAnimator$1 -> android.support.design.widget.bk:
-    android.support.design.widget.StateListAnimator this$0 -> a
-    void <init>(android.support.design.widget.StateListAnimator) -> <init>
-    void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
-    void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
-    void onAnimationRepeat(android.view.animation.Animation) -> onAnimationRepeat
-android.support.design.widget.StateListAnimator$Tuple -> android.support.design.widget.bl:
-    int[] mSpecs -> a
-    android.view.animation.Animation mAnimation -> b
-    void <init>(int[],android.view.animation.Animation) -> <init>
-    void <init>(int[],android.view.animation.Animation,android.support.design.widget.StateListAnimator$1) -> <init>
 android.support.design.widget.SwipeDismissBehavior -> android.support.design.widget.SwipeDismissBehavior:
     android.support.v4.widget.ViewDragHelper mViewDragHelper -> a
     android.support.design.widget.SwipeDismissBehavior$OnDismissListener mListener -> b
@@ -2296,7 +1975,7 @@ android.support.design.widget.SwipeDismissBehavior -> android.support.design.wid
     float access$500(android.support.design.widget.SwipeDismissBehavior) -> e
     float access$600(android.support.design.widget.SwipeDismissBehavior) -> f
     float access$700(float,float,float) -> b
-android.support.design.widget.SwipeDismissBehavior$1 -> android.support.design.widget.bm:
+android.support.design.widget.SwipeDismissBehavior$1 -> android.support.design.widget.ar:
     int mOriginalCapturedViewLeft -> b
     android.support.design.widget.SwipeDismissBehavior this$0 -> a
     void <init>(android.support.design.widget.SwipeDismissBehavior) -> <init>
@@ -2308,20 +1987,20 @@ android.support.design.widget.SwipeDismissBehavior$1 -> android.support.design.w
     int clampViewPositionHorizontal(android.view.View,int,int) -> a
     int clampViewPositionVertical(android.view.View,int,int) -> b
     void onViewPositionChanged(android.view.View,int,int,int,int) -> a
-android.support.design.widget.SwipeDismissBehavior$OnDismissListener -> android.support.design.widget.bn:
+android.support.design.widget.SwipeDismissBehavior$OnDismissListener -> android.support.design.widget.as:
     void onDismiss(android.view.View) -> a
     void onDragStateChanged(int) -> a
-android.support.design.widget.SwipeDismissBehavior$SettleRunnable -> android.support.design.widget.bo:
+android.support.design.widget.SwipeDismissBehavior$SettleRunnable -> android.support.design.widget.at:
     android.view.View mView -> b
     boolean mDismiss -> c
     android.support.design.widget.SwipeDismissBehavior this$0 -> a
     void <init>(android.support.design.widget.SwipeDismissBehavior,android.view.View,boolean) -> <init>
     void run() -> run
-android.support.design.widget.ThemeUtils -> android.support.design.widget.bp:
+android.support.design.widget.ThemeUtils -> android.support.design.widget.au:
     int[] APPCOMPAT_CHECK_ATTRS -> a
     void checkAppCompatTheme(android.content.Context) -> a
     void <clinit>() -> <clinit>
-android.support.design.widget.ValueAnimatorCompat -> android.support.design.widget.bq:
+android.support.design.widget.ValueAnimatorCompat -> android.support.design.widget.av:
     android.support.design.widget.ValueAnimatorCompat$Impl mImpl -> a
     void <init>(android.support.design.widget.ValueAnimatorCompat$Impl) -> <init>
     void start() -> a
@@ -2330,16 +2009,16 @@ android.support.design.widget.ValueAnimatorCompat -> android.support.design.widg
     void setIntValues(int,int) -> a
     int getAnimatedIntValue() -> b
     void cancel() -> c
-android.support.design.widget.ValueAnimatorCompat$1 -> android.support.design.widget.br:
+android.support.design.widget.ValueAnimatorCompat$1 -> android.support.design.widget.aw:
     android.support.design.widget.ValueAnimatorCompat$AnimatorUpdateListener val$updateListener -> a
     android.support.design.widget.ValueAnimatorCompat this$0 -> b
     void <init>(android.support.design.widget.ValueAnimatorCompat,android.support.design.widget.ValueAnimatorCompat$AnimatorUpdateListener) -> <init>
     void onAnimationUpdate() -> a
-android.support.design.widget.ValueAnimatorCompat$AnimatorUpdateListener -> android.support.design.widget.bs:
+android.support.design.widget.ValueAnimatorCompat$AnimatorUpdateListener -> android.support.design.widget.ax:
     void onAnimationUpdate(android.support.design.widget.ValueAnimatorCompat) -> a
-android.support.design.widget.ValueAnimatorCompat$Creator -> android.support.design.widget.bt:
+android.support.design.widget.ValueAnimatorCompat$Creator -> android.support.design.widget.ay:
     android.support.design.widget.ValueAnimatorCompat createAnimator() -> a
-android.support.design.widget.ValueAnimatorCompat$Impl -> android.support.design.widget.bu:
+android.support.design.widget.ValueAnimatorCompat$Impl -> android.support.design.widget.az:
     void <init>() -> <init>
     void start() -> a
     void setInterpolator(android.view.animation.Interpolator) -> a
@@ -2347,13 +2026,13 @@ android.support.design.widget.ValueAnimatorCompat$Impl -> android.support.design
     void setIntValues(int,int) -> a
     int getAnimatedIntValue() -> b
     void cancel() -> c
-android.support.design.widget.ValueAnimatorCompat$Impl$AnimatorListenerProxy -> android.support.design.widget.bv:
+android.support.design.widget.ValueAnimatorCompat$Impl$AnimatorListenerProxy -> android.support.design.widget.ba:
     void onAnimationStart() -> a
     void onAnimationEnd() -> b
     void onAnimationCancel() -> c
-android.support.design.widget.ValueAnimatorCompat$Impl$AnimatorUpdateListenerProxy -> android.support.design.widget.bw:
+android.support.design.widget.ValueAnimatorCompat$Impl$AnimatorUpdateListenerProxy -> android.support.design.widget.bb:
     void onAnimationUpdate() -> a
-android.support.design.widget.ValueAnimatorCompatImplEclairMr1 -> android.support.design.widget.bx:
+android.support.design.widget.ValueAnimatorCompatImplEclairMr1 -> android.support.design.widget.bc:
     android.os.Handler sHandler -> a
     long mStartTime -> b
     boolean mIsRunning -> c
@@ -2376,11 +2055,11 @@ android.support.design.widget.ValueAnimatorCompatImplEclairMr1 -> android.suppor
     void update() -> e
     void access$000(android.support.design.widget.ValueAnimatorCompatImplEclairMr1) -> a
     void <clinit>() -> <clinit>
-android.support.design.widget.ValueAnimatorCompatImplEclairMr1$1 -> android.support.design.widget.by:
+android.support.design.widget.ValueAnimatorCompatImplEclairMr1$1 -> android.support.design.widget.bd:
     android.support.design.widget.ValueAnimatorCompatImplEclairMr1 this$0 -> a
     void <init>(android.support.design.widget.ValueAnimatorCompatImplEclairMr1) -> <init>
     void run() -> run
-android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1 -> android.support.design.widget.bz:
+android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1 -> android.support.design.widget.be:
     android.animation.ValueAnimator mValueAnimator -> a
     void <init>() -> <init>
     void start() -> a
@@ -2389,35 +2068,35 @@ android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1 -> android.sup
     void setIntValues(int,int) -> a
     int getAnimatedIntValue() -> b
     void cancel() -> c
-android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1$1 -> android.support.design.widget.ca:
+android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1$1 -> android.support.design.widget.bf:
     android.support.design.widget.ValueAnimatorCompat$Impl$AnimatorUpdateListenerProxy val$updateListener -> a
     android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1 this$0 -> b
     void <init>(android.support.design.widget.ValueAnimatorCompatImplHoneycombMr1,android.support.design.widget.ValueAnimatorCompat$Impl$AnimatorUpdateListenerProxy) -> <init>
     void onAnimationUpdate(android.animation.ValueAnimator) -> onAnimationUpdate
-android.support.design.widget.ViewGroupUtils -> android.support.design.widget.cb:
+android.support.design.widget.ViewGroupUtils -> android.support.design.widget.bg:
     android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImpl IMPL -> a
     void offsetDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> a
     void getDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> b
     void <clinit>() -> <clinit>
-android.support.design.widget.ViewGroupUtils$1 -> android.support.design.widget.cc:
-android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImpl -> android.support.design.widget.cd:
+android.support.design.widget.ViewGroupUtils$1 -> android.support.design.widget.bh:
+android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImpl -> android.support.design.widget.bi:
     void offsetDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> a
-android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImplBase -> android.support.design.widget.ce:
+android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImplBase -> android.support.design.widget.bj:
     void <init>() -> <init>
     void offsetDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> a
     void <init>(android.support.design.widget.ViewGroupUtils$1) -> <init>
-android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImplHoneycomb -> android.support.design.widget.cf:
+android.support.design.widget.ViewGroupUtils$ViewGroupUtilsImplHoneycomb -> android.support.design.widget.bk:
     void <init>() -> <init>
     void offsetDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> a
     void <init>(android.support.design.widget.ViewGroupUtils$1) -> <init>
-android.support.design.widget.ViewGroupUtilsHoneycomb -> android.support.design.widget.cg:
+android.support.design.widget.ViewGroupUtilsHoneycomb -> android.support.design.widget.bl:
     java.lang.ThreadLocal sMatrix -> a
     java.lang.ThreadLocal sRectF -> b
     android.graphics.Matrix IDENTITY -> c
     void offsetDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> a
     void offsetDescendantMatrix(android.view.ViewParent,android.view.View,android.graphics.Matrix) -> a
     void <clinit>() -> <clinit>
-android.support.design.widget.ViewOffsetBehavior -> android.support.design.widget.ch:
+android.support.design.widget.ViewOffsetBehavior -> android.support.design.widget.bm:
     android.support.design.widget.ViewOffsetHelper mViewOffsetHelper -> a
     int mTempTopBottomOffset -> b
     int mTempLeftRightOffset -> c
@@ -2426,7 +2105,7 @@ android.support.design.widget.ViewOffsetBehavior -> android.support.design.widge
     boolean onLayoutChild(android.support.design.widget.CoordinatorLayout,android.view.View,int) -> a
     boolean setTopAndBottomOffset(int) -> a
     int getTopAndBottomOffset() -> b
-android.support.design.widget.ViewOffsetHelper -> android.support.design.widget.ci:
+android.support.design.widget.ViewOffsetHelper -> android.support.design.widget.bn:
     android.view.View mView -> a
     int mLayoutTop -> b
     int mLayoutLeft -> c
@@ -2439,26 +2118,26 @@ android.support.design.widget.ViewOffsetHelper -> android.support.design.widget.
     boolean setTopAndBottomOffset(int) -> a
     boolean setLeftAndRightOffset(int) -> b
     int getTopAndBottomOffset() -> b
-android.support.design.widget.ViewUtils -> android.support.design.widget.cj:
+android.support.design.widget.ViewUtils -> android.support.design.widget.bo:
     android.support.design.widget.ValueAnimatorCompat$Creator DEFAULT_ANIMATOR_CREATOR -> a
     android.support.design.widget.ViewUtils$ViewUtilsImpl IMPL -> b
     void setBoundsViewOutlineProvider(android.view.View) -> a
     android.support.design.widget.ValueAnimatorCompat createAnimator() -> a
     void <clinit>() -> <clinit>
-android.support.design.widget.ViewUtils$1 -> android.support.design.widget.ck:
+android.support.design.widget.ViewUtils$1 -> android.support.design.widget.bp:
     void <init>() -> <init>
     android.support.design.widget.ValueAnimatorCompat createAnimator() -> a
-android.support.design.widget.ViewUtils$ViewUtilsImpl -> android.support.design.widget.cl:
+android.support.design.widget.ViewUtils$ViewUtilsImpl -> android.support.design.widget.bq:
     void setBoundsViewOutlineProvider(android.view.View) -> a
-android.support.design.widget.ViewUtils$ViewUtilsImplBase -> android.support.design.widget.cm:
+android.support.design.widget.ViewUtils$ViewUtilsImplBase -> android.support.design.widget.br:
     void <init>() -> <init>
     void setBoundsViewOutlineProvider(android.view.View) -> a
     void <init>(android.support.design.widget.ViewUtils$1) -> <init>
-android.support.design.widget.ViewUtils$ViewUtilsImplLollipop -> android.support.design.widget.cn:
+android.support.design.widget.ViewUtils$ViewUtilsImplLollipop -> android.support.design.widget.bs:
     void <init>() -> <init>
     void setBoundsViewOutlineProvider(android.view.View) -> a
     void <init>(android.support.design.widget.ViewUtils$1) -> <init>
-android.support.design.widget.ViewUtilsLollipop -> android.support.design.widget.co:
+android.support.design.widget.ViewUtilsLollipop -> android.support.design.widget.bt:
     void setBoundsViewOutlineProvider(android.view.View) -> a
 android.support.v4.animation.AnimatorCompatHelper -> android.support.v4.a.a:
     android.support.v4.animation.AnimatorProvider IMPL -> a
@@ -7479,7 +7158,6 @@ android.support.v7.graphics.drawable.DrawableWrapper -> android.support.v7.c.a.b
     void setTintMode(android.graphics.PorterDuff$Mode) -> setTintMode
     void setHotspot(float,float) -> setHotspot
     void setHotspotBounds(int,int,int,int) -> setHotspotBounds
-    android.graphics.drawable.Drawable getWrappedDrawable() -> b
     void setWrappedDrawable(android.graphics.drawable.Drawable) -> a
 android.support.v7.internal.VersionUtils -> android.support.v7.internal.a:
     boolean isAtLeastL() -> a
@@ -11607,15 +11285,12 @@ com.example.manuelalejandro.ejemplo1.MainActivity$3 -> com.example.manuelalejand
     com.example.manuelalejandro.ejemplo1.MainActivity this$0 -> a
     void <init>(com.example.manuelalejandro.ejemplo1.MainActivity) -> <init>
     void onClick(android.view.View) -> onClick
-com.example.manuelalejandro.ejemplo1.MainActivity$4 -> com.example.manuelalejandro.ejemplo1.d:
-    com.example.manuelalejandro.ejemplo1.MainActivity this$0 -> a
-    void <init>(com.example.manuelalejandro.ejemplo1.MainActivity) -> <init>
-    void onClick(android.view.View) -> onClick
 com.example.manuelalejandro.ejemplo1.ProximidadActivity -> com.example.manuelalejandro.ejemplo1.ProximidadActivity:
     android.widget.LinearLayout fondo -> a
-    android.hardware.Sensor s -> b
-    android.hardware.SensorManager sensorM -> c
-    java.util.List sensores -> d
+    android.widget.TextView texto -> b
+    android.hardware.Sensor s -> c
+    android.hardware.SensorManager sensorM -> d
+    java.util.List sensores -> e
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
     void onSensorChanged(android.hardware.SensorEvent) -> onSensorChanged
